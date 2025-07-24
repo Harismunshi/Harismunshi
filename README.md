@@ -24,6 +24,8 @@
 ###
 <br>
 <p>
+
+    
 <img align="left" src="https://raw.githubusercontent.com/amankureshi/amankureshi/refs/heads/main/pikachu.gif"  alt="pikachu" width="4%"> <h2>Connect with me</h2>
 <a href="https://linkedin.com/in/harismunshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="HarisMunshi" height="40" width="40" /></a>
 </p>
