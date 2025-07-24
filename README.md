@@ -28,9 +28,6 @@
     
 <img align="left" src="https://raw.githubusercontent.com/amankureshi/amankureshi/refs/heads/main/pikachu.gif"  alt="pikachu" width="4%"> <h2>Connect with me</h2>
 <a href="https://linkedin.com/in/harismunshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="HarisMunshi" height="40" width="40" /></a>
-<a href="https://dev.to/aman_kureshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aman_kureshi_" height="40" width="40" /></a>
-<a href="https://medium.com/@amankureshidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amankureshidev" height="40" width="40" /></a>
-<a href="https://twitter.com/kureshi_aman786" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="kureshi_aman786" height="40" width="40" /></a>
 </p>
 </br>
 <a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats-seven-flame.vercel.app?user=amankureshi&theme=vision-friendly-dark&card_width=460" alt="GitHub Streak" /></a>
