@@ -6,7 +6,7 @@
     <li>🚀 Currently working on an AI Project to enhance my skills and<br> gain practical experience  in  creating web applications.</li>
     <li>🏆 Achieved 1st place in Web Design Competitions during 1st <br> years of college.</li>
     <li>🎨 Love crafting user-friendly interfaces and learning new tools/technologies<br> to improve my development skills.</li>
-    <li> 🌐Visit my <a href="https://linkedin.com/harismunshi/" target="_blank">Portfolio<a> for more details about me.</li>
+    <li> 🌐Visit my <a href="https://www.linkedin.com/in/harismunshi/" target="_blank">Portfolio<a> for more details about me.</li>
 </ul>
 
 ## <img src="https://github.com/user-attachments/assets/a03f184c-23a7-4799-ba1c-7cafd5ab1e44" alt="⚙" width="4%"> Technology Stack
@@ -24,8 +24,6 @@
 ###
 <br>
 <p>
-
-    
 <img align="left" src="https://raw.githubusercontent.com/amankureshi/amankureshi/refs/heads/main/pikachu.gif"  alt="pikachu" width="4%"> <h2>Connect with me</h2>
 <a href="https://linkedin.com/in/harismunshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="HarisMunshi" height="40" width="40" /></a>
 </p>
