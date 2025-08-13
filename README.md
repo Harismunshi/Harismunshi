@@ -1,5 +1,7 @@
 ## <img src="https://github.com/user-attachments/assets/6830b94a-18f3-43c5-bbef-38318f31e354" width="3%"> About me
 <img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="25%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVrbGhuYXJoZnY0MnJrOHp1MjBsd3V0aWdwemM1cDl1eWZjY3JzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" align="right" width="25%">
+
 <ul>
     <li>👨‍💻 I am a Frontend Developer with a strong passion for web development.
     </li>
