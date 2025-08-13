@@ -8,7 +8,7 @@
     <li>🎨 Love crafting user-friendly interfaces and learning new tools/technologies<br> to improve my development skills.</li>
     <li> 🌐Visit my <a href="https://www.linkedin.com/in/harismunshi/" target="_blank">Portfolio<a> for more details about me.</li>
 </ul>
-
+# Technology Stack
 <table align="left">
     <tr>
         <td><strong>Frontend Development</strong></td>
