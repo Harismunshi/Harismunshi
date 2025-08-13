@@ -8,8 +8,9 @@
     <li>🎨 Love crafting user-friendly interfaces and learning new tools/technologies<br> to improve my development skills.</li>
     <li> 🌐Visit my <a href="https://www.linkedin.com/in/harismunshi/" target="_blank">Portfolio<a> for more details about me.</li>
 </ul>
-<h2>Technology</h2>
+
 <table align="left">
+<h2>Technology</h2>
     <tr>
         <td><strong>Frontend Development</strong></td>
         <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap"></td>
