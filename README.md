@@ -8,7 +8,7 @@
     <li>🎨 Love crafting user-friendly interfaces and learning new tools/technologies<br> to improve my development skills.</li>
     <li> 🌐Visit my <a href="https://www.linkedin.com/in/harismunshi/" target="_blank">Portfolio<a> for more details about me.</li>
 </ul>
-# Technology Stack
+<h2>Technology</h2>
 <table align="left">
     <tr>
         <td><strong>Frontend Development</strong></td>
@@ -24,7 +24,7 @@
 <p>
 
     
-<img align="left" src="https://raw.githubusercontent.com/amankureshi/amankureshi/refs/heads/main/pikachu.gif"  alt="pikachu" width="4%"> <h2>Connect with me</h2>
+<h2>Connect with me</h2>
 <a href="https://linkedin.com/in/harismunshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="HarisMunshi" height="40" width="40" /></a>
 </p>
 </br>
