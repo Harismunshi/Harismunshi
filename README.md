@@ -9,8 +9,6 @@
     <li> 🌐Visit my <a href="https://www.linkedin.com/in/harismunshi/" target="_blank">Portfolio<a> for more details about me.</li>
 </ul>
 
-## <img src="https://github.com/user-attachments/assets/a03f184c-23a7-4799-ba1c-7cafd5ab1e44" alt="⚙" width="4%"> Technology Stack
-
 <table align="left">
     <tr>
         <td><strong>Frontend Development</strong></td>
