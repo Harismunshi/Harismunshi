@@ -1,5 +1,4 @@
 ## <img src="https://github.com/user-attachments/assets/6830b94a-18f3-43c5-bbef-38318f31e354" width="3%"> About me
-<img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="25%">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM3cmMxeTc4Ym9vNnVvcDFidjRwdTllcWdhYWZ2bGYwdHRtZWR5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" align="right" width="25%">
 
 <ul>
