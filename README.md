@@ -29,6 +29,5 @@
 <a href="https://linkedin.com/in/harismunshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="HarisMunshi" height="40" width="40" /></a>
 </p>
 </br>
-<a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats-seven-flame.vercel.app?user=amankureshi&theme=vision-friendly-dark&card_width=460" alt="GitHub Streak" /></a>
 <br>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amankureshi&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="amankureshi" /></p>
